@@ -25,7 +25,7 @@ public class Main {
         } else if (number % fizz == 0) {
             System.out.println(f);
         }else {
-            System.out.println(number);
+            System.out.println(number + " is divisible by neither 3 nor 5.");
         }
 
 
